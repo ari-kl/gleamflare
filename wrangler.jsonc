@@ -1,0 +1,6 @@
+{
+  "name": "gleamflare",
+  "main": "build/dev/javascript/gleamflare/index.js",
+  "compatibility_date": "2025-04-09",
+  "kv_namespaces": []
+}
